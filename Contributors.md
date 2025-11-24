@@ -577,6 +577,7 @@
 - [Sunghee Yoon](https://github.com/tnosh7)
 - [JK Nithin Kumar](https://github.com/jknithin36)
 - [swev10swev](https://github.com/swev10swev)
+- [Elyssa-twelve](https://github.com/Elyssa-twelve)
 - [reihori](https://github.com/reihori)
 - [bereamk](https://github.com/bereamk)
 - [Chaitya Shah] (https://github.com/CShah44)
